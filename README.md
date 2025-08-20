@@ -76,7 +76,7 @@ streamlit run app.py
 ### 1 Terminal
 Open up the terminal and put the following command in:
 ```bash
-cd mass_spec_analyzer
+cd HDI
 ```
 Then activate the environment:
 Windows
