@@ -63,7 +63,7 @@ source venv/bin/activate
 ### 5 Install dependancies
 ```bash
 pip install --upgrade pip
-pip install -r requirements.txt
+pip install -r requirments.txt
 ```
 
 ### 6 Run the app 
