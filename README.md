@@ -44,7 +44,7 @@ Open up your terminal and copy and paste the below in to it.
 ```bash
 git --version
 git clone https://github.com/maxgeorgejackson/HDI
-cd mass_spec_analyzer
+cd HDI
 ```
 
 ### 4 Create a virtual environment
