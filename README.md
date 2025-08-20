@@ -85,7 +85,7 @@ venv\Scripts\activate
 ```
 Mac/Linux
 ```bash
-venv/bin/activate
+source venv/bin/activate
 ```
 
 ### 2 Run app
