@@ -51,7 +51,7 @@ cd HDI
 Windows:
 ```bash
 python -m venv venv
-venv\Scripts\activate
+venv/Scripts/activate
 ```
 
 Mac/Linux:
@@ -80,7 +80,7 @@ cd mass_spec_analyzer
 ```
 Then activate the environment:
 ```bash
-venv\Scripts\activate
+venv/Scripts/activate
 ```
 
 ### 2 Run app
