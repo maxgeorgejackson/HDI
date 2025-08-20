@@ -70,3 +70,33 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+
+## How to run after setup
+
+### 1 Terminal
+Open up the terminal and put the following command in:
+```bash
+cd mass_spec_analyzer
+```
+Then activate the environment:
+```bash
+venv\Scripts\activate
+```
+
+### 2 Run app
+
+Then we run the app, easy as that!
+```bash
+streamlit run app.py
+```
+
+### Functionality
+This tool takes files in the exact format of the other examples you showed me. You can drag and drop or search for files in the top box.
+
+Output csv and pdf names are whatever you want just make sure to add the .csv and .pdf respectivly.
+
+m/z tolerance is the value you want it to merge either side so change this as you wish.
+
+Top % threshold is for the graph and the txt file and is basically used just to inspect the data to quickly check the values seem correct.
+
+Good luck!
