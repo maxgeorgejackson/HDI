@@ -43,7 +43,7 @@ Open up your terminal and copy and paste the below in to it.
 
 ```bash
 git --version
-git clone https://github.com/YOUR_USERNAME/mass_spec_analyzer.git
+git clone https://github.com/maxgeorgejackson/HDI
 cd mass_spec_analyzer
 ```
 
